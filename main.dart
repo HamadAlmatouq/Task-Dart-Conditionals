@@ -43,12 +43,16 @@ switch(calc)
 {
 case 1:
 print(x+y);
+break;
 case 2:
 print(x-y);
+break;
 case 3:
 print(x/y);
+break;
 case 4:
 print(x*y);
+break;
 }
 
 
